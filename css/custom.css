@@ -393,6 +393,7 @@ h3.sectionTitle {
     max-width: 100%;
     width: 100%;
 	min-height: 120px;
+	line-height: 150%;
 }
 #contactWrap button.btn {
     margin-top: 15px;
